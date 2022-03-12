@@ -25,3 +25,31 @@
  Disini kita akan merubah perataan pargraf dari pinggir menjadi ke tengah agar lebih rapih. berikut tampilannya
 
  ![Membuat Paragraf Baru](pictures/perataan-paragraf.PNG)
+
+ - **Membuat Judul Baru**
+
+ <br>
+untuk selanjutnya kita memasukan Judul Baru pada HTML ini. Berikut tampilannya
+
+![Membuat Judul Baru](pictures/judulbaru.PNG)
+
+- **Memformat teks**
+
+<br>
+Agar teks terilihat lebih menarik kita memodifikasi jadi disini kita membuat beberapa teks menjadi tebal dan miring. berikut tampilannya
+
+![Memformat teks](pictures/memformatteks.PNG)
+
+- **Menyisipkan Gambar**
+
+<br>
+Disini kita menyisipkan gambar untuk logo atau apapun disini saya meyisipkan logo kampus UPB. berikut tampilannya
+
+![Menyisipkan Gambar](pictures/logokampus.PNG)
+
+- **Membuat Hyperlink**
+
+<br>
+tujuan membuat hyper link ini agar kita dapat membuat halaman baru. berikut tampilannya
+
+![Membuat Hyperlink](pictures/membuathyperlink.PNG)
