@@ -20,3 +20,8 @@
   Disini membuat paragraf pada file HTML pada sintax p untuk membuat paragraf baru. dibawah ini untuk tampilannya
 
  ![Membuat Paragraf Baru](pictures/paragraf1.PNG)
+ - **Perataan Paragraf**
+ <br>
+ Disini kita akan merubah perataan pargraf dari pinggir menjadi ke tengah agar lebih rapih. berikut tampilannya
+
+ ![Membuat Paragraf Baru](pictures/perataan-paragraf.PNG)
