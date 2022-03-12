@@ -56,7 +56,15 @@ tujuan membuat hyper link ini agar kita dapat membuat halaman baru. berikut tamp
 
 > - **jawab Pertanyaan Berikut**
 > 1. Lakukan perubahan pada kode sesuai dengan keinginan anda, amati perubahannya adakah error ketika terjadi kesalahan penulisan tag?
+>- Jawab : ketika terjadi kesalahan pada penulisan maka kode yang akan kita masukan tidak akan muncul atau akan error
 >2. Apa perbedaan dari tag \<p> dengan tag \<br> berikan penjelasannya!
+>- Jawab : \<p> untuk membuat paragraf baru sedangkan \<br> untuk membuat baris baru
 >3. Apa perbedaan atribut title dan alt pada tag \<img>, berikan penjelasannya!
+>- Jawab :Tag title berfungsi untuk memberi judul pada gambar ketika kursor mengenai gambar terdebut, sedangkan alt berfungsi untuk membuat deskripsi gambar apabila gambar tersebut tidak dapat ditampilkan
 >4. Untuk mengatur ukuran gambar, digunakan atribut width dan height. Agar tampilan gambar proporsional sebaiknya kedua atribut tersebut diisi semua atau tidak? Berikan penjelasannya!
+>- Jawab :Agar dapat menampilkan ukuran gambar yang sesuai dengan keingan menurut saya perlu diiisi semua
 >5. Pada link tambahkan atribut target dengan nilai atribut bervariasi ( _blank, _self, _top, _parent ),apa yang terjadi pada masing-masing nilai antribut tersebut?
+>- Jawab :Atribut_blank berfungsi untuk membuka halaman pada tab baru.
+          Atribut_self berfungsi untuk membuka halaman pada tab yang sudah terbuka.
+          Atribut_top berfungsi untuk membuka halaman pada window barau dan layar penuh
+          Atribut_parent berfungsi untuk membuka link di frame yang satu tinggkat diatas frame link tersebut berada
